@@ -1,0 +1,28 @@
+.code3 {
+overflow:auto;width:400px;height:auto;
+font-family: "Consolas", "Courier New", Courier, mono, serif;
+margin : 15px 35px 15px 15px;
+padding : 10px 10px 10px 35px;
+clear : both;
+color:000:
+list-style-type : none;
+background :#ffffff;
+border : 1px solid #EEEEEE;
+border-left:20px solid #000;
+border-right:20px solid #000;
+-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition-duration:all .3s ease-in-out;transition:all .3s ease-in-out;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;
+-moz-border--moz-border-radius: 23px 20px 20px 20px;border-radius: 23px 20px 20px;
+-webkit-box-shadow: 0px 0px 10px  rgba(0, 0, 0, .3);
+-moz-box-shadow: 0px 0px 10px  rgba(0, 0, 0, .3);
+box-shadow: 0px 0px 10px  rgba(0, 0, 0, .3);
+}
+.code3:hover{
+background : #000;
+color:#fff;
+border : 1px solid #EEEEEE;
+border-left:20px solid #ffffff;
+border-right:20px solid #ffffff;
+-webkit-box-shadow: 0px 0px 10px  rgba(0, 0, 0, .3);
+-moz-box-shadow: 0px 0px 10px  rgba(0, 0, 0, .3);
+box-shadow: 0px 0px 10px  rgba(0, 0, 0, .3);
+}
