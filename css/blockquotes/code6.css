@@ -1,0 +1,26 @@
+.code6 {
+overflow:auto;width:304px;height:auto;
+font-family: "Arial";
+margin : 15px 35px 15px 15px;
+padding : 10px 10px 10px 60px;
+clear : both;
+color:#47262E;
+list-style-type : none;
+background-image : url(http://3.bp.blogspot.com/-LBm9I9TMM6g/T33wA7ME3TI/AAAAAAAABpI/sTgD4XwuQcA/s1600/blockquote.gif);
+background-repeat: repeat-y;
+background-position: fixed top left;
+}
+
+.code6:hover{
+overflow:auto;width:304px;height:auto;
+font-family: "Arial";
+margin : 15px 35px 15px 15px;
+padding : 10px 10px 10px 60px;
+clear : both;
+color:#47262E;
+list-style-type : none;
+background-image : url(http://3.bp.blogspot.com/-LBm9I9TMM6g/T33wA7ME3TI/AAAAAAAABpI/sTgD4XwuQcA/s1600/blockquote.gif);
+background-repeat: repeat-y;
+background-position: fixed top left;
+}
+
