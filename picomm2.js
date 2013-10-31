@@ -1,0 +1,1 @@
+var _0x273a=nccomments=document[_0x273a[2]](_0x273a[1])[_0x273a[0]];if(nccomments[_0x273a[3]]>0){nccomments=nccomments[_0x273a[5]](/\[img\]/gi,_0x273a[4]);nccomments=nccomments[_0x273a[5]](/\[im\#\]/gi,_0x273a[6]);nccomments=nccomments[_0x273a[5]](/\[\/img\]/gi,_0x273a[7]);document[_0x273a[2]](_0x273a[1])[_0x273a[0]]=nccomments;} ;
